@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin:0; 
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header */
+
+.header-options {
+    color: #FFF;
+    cursor: pointer;
+    background-color: #3a3cbd;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 3px solid #0f3164;
+    font-size: 120%
+}
+
+.options-link {
+    margin-right: 10%;
+    font-weight: 300;
+}
+
+.options-link:hover {
+    opacity: 0.7;
+}
+  
+.options-link:active {
+    opacity: 0.5;
+}
+
+/*texto*/
+
+.information {
+    margin: 0% 0% 0% 0%;
+    text-align: justify;
+    padding-bottom: 2%;
+    background-color: #9799f5
+}
+
+.introduction {
+    display: inline-block;
+    height: 100vh;
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 3%;
+}
+
+/*cartao*/
+
+.card-data {
+    display: inline-block; 
+    height: 100vh;
+    width: 100%;
+    padding-left: 60%;
+    margin-top: -50%;
+    position: absolute;
+}    
+
+#form {
+    color: #0d0558; 
+    font-weight: 600;
+    background-color: #c8bffe;
+    width: 65%;
+    border-radius: 7%;
+    padding: 5% 0 5% 17%;
+}
+  
+#name-input {
+    color: #FFFF;
+    height: 5%;
+}
+  
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#btnValidate {
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    padding: 1.5%;
+    width: 25%;
+    background-color: #6668e6;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 90%;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 20%
+}
+
+#btnValidate:hover {
+  opacity: 0.7;
+}
+
+#btnValidate:active {
+  opacity: 0.5;
+}
+
+#card-result {
+    color: #000000;
+}
+
+.card {
+    margin-top: 6%;
+    width: 65%;
+    height: 35%;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    background-image: linear-gradient(to top, #898adf 0%, #c8bffe 100%);
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5), -1px -1px 2px #aaa, 1px 1px 2px #555;
+    backdrop-filter: blur(0.8rem);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    position: relative;
+}
+
+.card-clone{
+    background: transparent;
+    border: none;
+    color: #000000;;
+    font-size: 100%;
+}
+
+.footer-name {
+    text-align: center;
+    padding-bottom: 1%;
+    color: #0f3164;
+    background-color: #c8bffe;
+}
