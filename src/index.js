@@ -60,7 +60,7 @@ function cloneCardExpiration () {
 }
   
 function cloneCardCvv () {
-  const value= document.getElementById("cvv")
+  const value= document.getElementById("cvv").value;
   
   document.getElementById("card-cvv").value= value;
 }
