@@ -4,7 +4,7 @@ Primeiro projeto do bootcamp junto com a Laboratória, tendo como objetivo de ve
 
 - jumvribeiro.github.io
 
- ## Índice
+## Índice
 * [1. Introdução](#1-Introdução)
 * [2. Produto](#2-Produto)
 * [3. Interface](#3-interface)
@@ -64,10 +64,13 @@ Com isso, foi pensado nas seguintes situações:
 
 1. Usuário não digitar o numero do cartão;
   <img src="README/1.jpg">
+  
 2. Usuário não digitar todos os numeros do cartão;
    <img src="README/2.jpg">
+   
 3. Usuário não digitar corretamente o numero do cartão;
    <img src="README/3.jpg">
+   
 4. Cartão valido;
    <img src="README/4.jpg">
    
