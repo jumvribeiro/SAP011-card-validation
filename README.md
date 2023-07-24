@@ -58,18 +58,18 @@ Processo para definir o produto em nível de experiência e interface:
 
 Ao seguir esse processo, buscamos criar uma plataforma de ensino de inglês que ofereça uma experiência atraente e eficiente para os alunos, ao mesmo tempo em que atenda às necessidades dos administradores e instrutores responsáveis pelo conteúdo do curso. A validação de cartão assegura a segurança das transações e proporciona uma experiência tranquila para os usuários durante o processo de pagamento.
 
----> foto da pagina 
+<img src="README/interface.jpg">
 
 Com isso, foi pensado nas seguintes situações:
 
 1. Usuário não digitar o numero do cartão;
-   --> foto 1
+  <img src="README/1.jpg">
 2. Usuário não digitar todos os numeros do cartão;
-   --> foto 2
+   <img src="README/2.jpg">
 3. Usuário não digitar corretamente o numero do cartão;
-   --> foto 3
+   <img src="README/3.jpg">
 4. Cartão valido;
-  --> foto 4
+   <img src="README/4.jpg">
    
 ## Objetivo
 
