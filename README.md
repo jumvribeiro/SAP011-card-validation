@@ -63,19 +63,13 @@ Ao seguir esse processo, buscamos criar uma plataforma de ensino de inglês que 
 Com isso, foi pensado nas seguintes situações:
 
 1. Usuário não digitar o numero do cartão;
-  <img src="README/1.jpg">
-
+  
 2. Usuário não digitar todos os numeros do cartão;
-   <img src="README/2.jpg">
-
-3. Usuário não digitar corretamente o numero do cartão;
-   <img src="README/3.jpg">
    
+3. Usuário não digitar corretamente o numero do cartão;
+      
 4. Cartão valido;
-   <img src="README/4.jpg">
-
-
-
+   
 
    
 ## Objetivo
