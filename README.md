@@ -2,7 +2,7 @@
 
 Primeiro projeto do bootcamp junto com a Laboratória, tendo como objetivo de verificar cartão de crédito, simulando a comprar de aulas de inglês.
 
-- jumvribeiro.github.io
+- https://jumvribeiro.github.io/SAP011-card-validation-englishclass/src/
 
 ## Índice
 * [1. Introdução](#1-Introdução)
