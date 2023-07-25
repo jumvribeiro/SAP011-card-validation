@@ -41,15 +41,21 @@ cardExpiration.addEventListener("keyup", cloneCardExpiration);
 cardCvv.addEventListener("keyup", cloneCardCvv);
 
 function cloneCardNumber () {
+  // Obtém o valor do campo de entrada com o id "number" (provavelmente o número do cartão)
   const value= document.getElementById ("number").value;
+  // Chama uma função chamada "validator.maskify" passando o valor obtido do campo de entrada.
+  // Essa função aplica uma máscara ao número do cartão.
   const mask= validator.maskify(value);
   
+  // Define o valor do campo de entrada com o id "card-number" com o valor retornado pela função de máscara.
   document.getElementById("card-number").value= mask;
 }
   
 function cloneCardName () {
+  // Obtém o valor do campo de entrada com o id "name" (provavelmente o nome do titular do cartão)
   const value= document.getElementById("name").value;
-  
+
+  // Define o valor do campo de entrada com o id "card-name" com o valor obtido do campo de entrada "name".
   document.getElementById("card-name").value= value;
 }
   
