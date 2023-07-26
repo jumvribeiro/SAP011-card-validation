@@ -76,7 +76,7 @@ Com isso, foi pensado nas seguintes situações:
 
 1. Criação de uma interface onde o usuário é capaz de validar o número de um cartão de crédito.
 2. Ocultar todos os dígitos de um cartão e ocultar o número até os 4 últimos dígitos.
-3. Trabalhar e estudar as ferramentas de manutenção e melhoria no código, assim como linters e os testes unitários.
+3. Trabalhar e estudar as ferramentas de manutenção e melhoria no código.
 4. Adquirir conhecimento sobre o Git e Github.
 
 ## Ferramentas Utilizadas
